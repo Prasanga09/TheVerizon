@@ -5,9 +5,7 @@
   text-decoration: none;
 }
 body{
-  background-image: url(bgwow.jpg);
-
-
+  background-image: url(bg.jpg);
 }
 .sidebar{
   position: fixed;
