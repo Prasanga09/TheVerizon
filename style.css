@@ -4,6 +4,11 @@
   padding: 0;
   text-decoration: none;
 }
+body{
+  background-image: url(bgwow.jpg);
+
+
+}
 .sidebar{
   position: fixed;
   width: 240px;
@@ -112,4 +117,3 @@ label #cancel{
     opacity: 1;
     visibility: visible;
   }
-}
