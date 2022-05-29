@@ -1,7 +1,7 @@
 var password = "ilikethiccgirls";
 function passcheck() {
   if (document.getElementById('bruh').value != password} {
-    alert('Wrong password, Try Again, Hint: askyourmom.');
+    alert('Wrong password, Try Again.');
     return false;
   }
   if (document.getElementById('bruh').value == password} {
