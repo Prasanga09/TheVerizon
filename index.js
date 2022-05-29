@@ -1,9 +1,10 @@
 var password = "ilikethiccgirls";
 function passcheck() {
   if (document.getElementById('bruh').value != password} {
-        alert('Wrong password, Try Again, Hint: askyourmom.');
+    alert('Wrong password, Try Again, Hint: askyourmom.');
+    return false;
   }
   if (document.getElementById('bruh').value == password} {
-        alert('Correct password. Click OK to enter webpage');
+    alert('Correct password. Click OK to enter webpage');
   }
 }
